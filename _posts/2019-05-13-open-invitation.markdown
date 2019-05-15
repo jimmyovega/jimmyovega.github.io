@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HI"
+title: "An Open Invitation - by Tesla"
 categories: poetry
 ---
 # An Open Invitation
@@ -50,5 +50,7 @@ Will yours and mine can be transcribed again.
 *Putting that aside, I think coffee is best*
 
 ## Don't be coy
+
+<Silence>
 
 *...*
