@@ -24,9 +24,6 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
 end
 
-#Cuz github suggested cuz of security vulnerability
-gem "activesupport", ">= 4.1.11"
-
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
