@@ -4,7 +4,6 @@ title: "An Open Invitation - by Tesla"
 date:  2019-05-13 00:00:00 -0500
 categories: poetry
 ---
-# An Open Invitation
 
 ## I take it
 
