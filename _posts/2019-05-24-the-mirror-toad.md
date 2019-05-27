@@ -24,4 +24,4 @@ Backed away with a leap for any jaws snapping
 The other spitting image, past the metal frame  
 Unware, it too, danced with its ego colliding  
 The mirrored frivolous attempt to be unkind  
-The soft mud carries all of their petty weight.
+The soft mud carries all their sardonic weights.
