@@ -10,7 +10,7 @@ Croaking with ego, the toad invites itself
 An inner chamber sequestered inside an oak  
 The seemingly promise of food discoveries  
 Too precious to be dissuaded by foresight  
-/n/n
+
 
 Human trinkets were laid strewn and settled  
 Solidly held in place with the hardened mud  
@@ -19,5 +19,9 @@ Another of its own, ignoring everyone else
 And finds this one toad's presence appalling  
 Hisses, inflations all meant to deter failed
 
-It rushed, foliage ruffled and glanced to it
-Backed away with a leap for any jaws snapping
+Foliage unsettled and shoved the toad glanced  
+Backed away with a leap for any jaws snapping  
+The other spitting image, past the metal frame  
+Unware, it too, danced with its ego colliding  
+The mirrored frivolous attempt to be unkind  
+The soft mud carries all of their petty weight.

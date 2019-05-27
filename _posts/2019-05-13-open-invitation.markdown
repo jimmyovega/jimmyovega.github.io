@@ -12,7 +12,7 @@ It's pollinating cringe startles the clockwork
 Sun, the Sun isn't made aware the nail bitten  
 Low brow amenities reassured answers to keep  
 the logical standard form satiated.  
-\n\n
+
 
 *It seems tangible*
 
