@@ -10,6 +10,7 @@ Slender and unabashed of her propensity, figure glow
 Ten Dollars brings attolent of non-reserved seating  
 By and often, swings a spectacular airborne evening.  
 
+
 *Her wrists was writhing*  
 *Purple sores were common*  
 *Mistakes were the burns*  
