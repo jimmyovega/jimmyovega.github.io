@@ -1,41 +1,34 @@
-<meta charset="utf-8">
-
-{% include seo.html %}
-
-<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
-
-<!-- https://t.co/dKP3o1e -->
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-</script>
-
-<!-- For all browsers -->
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-
-<!--[if IE ]>
-  <style>
-    /* old IE unsupported flexbox fixes */
-    .greedy-nav .site-title {
-      padding-right: 3em;
-    }
-    .greedy-nav button {
-      position: absolute;
-      top: 0;
-      right: 0;
-      height: 100%;
-    }
-  </style>
-<![endif]-->
-
-{% if site.head_scripts %}
-  {% for script in site.head_scripts %}
-    {% if script contains "://" %}
-      {% capture script_path %}{{ script }}{% endcapture %}
+<head>
+  <meta charset="utf-8" />
+  <!-- multi-device width -->
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+  <!-- site description -->
+  {% if page.excerpt %}
+  {% assign desc = page.excerpt | strip_html |
+  strip_newlines | truncate: 160 %}
+  {% else %}
+  {% assign desc = site.description
+  %}
+  {% endif %}
+  <meta content="{{ desc }}" name="description" />
+  <!-- referer for 3rd-part images-->
+  <meta content="no-referrer" name="referrer" />
+  <!-- title -->
+  <title>
+    {% if page.title %}
+    {{ page.title | escape }}
     {% else %}
-      {% capture script_path %}{{ script | relative_url }}{% endcapture %}
+    {{ site.title | escape }}
     {% endif %}
-    <script src="{{ script_path }}"></script>
-  {% endfor %}
-{% endif %}
+  </title>
+  <!-- icon -->
+  <link href="{{site.url }}{{site.baseurl}}{{site.assets_path}}/img/favicon.ico?" rel="shortcut icon bookmark" type="image/x-icon" />
+  <!-- main stylesheet -->
+  <link rel="stylesheet" href="{{site.url}}{{site.baseurl}}{{site.assets_path}}/css/main.css" type="text/css" />
+  <!-- fa 5.9.0 -->
+  <link rel="stylesheet" href="{{site.url}}{{site.baseurl}}{{site.assets_path}}/css/fa.min.css" type="text/css" />
+  <!-- rouge theme-->
+  <link rel="stylesheet" href="{{site.url}}{{site.baseurl}}{{site.assets_path}}/css/rouge-bg.css" />
+  <!-- mathjax 2.7.5 -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" async></script>
+  </head>
