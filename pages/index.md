@@ -10,7 +10,7 @@ author: ""
 permalink: /
 ---
 
-# VRC6 -
+# VRC6 - A wonderful little small repository of text
 
 ##  Introduction
 
