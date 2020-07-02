@@ -2,6 +2,8 @@
 layout: post
 title: "An Open Invitation - by Tesla"
 category: poetry
+footer: true
+author: TeslaCoil
 ---
 
 ## I take it
@@ -12,7 +14,6 @@ It's pollinating cringe startles the clockwork
 Sun, the Sun isn't made aware the nail bitten  
 Low brow amenities reassured answers to keep  
 the logical standard form satiated.  
-
 
 *It seems tangible*
 

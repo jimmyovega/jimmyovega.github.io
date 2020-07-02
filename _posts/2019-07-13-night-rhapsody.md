@@ -2,6 +2,8 @@
 layout: post
 title: "Night Rhapsody"
 category: poetry
+footer: true
+author: TeslaCoil
 ---
 
 Vocal holidays gives breath anew to vices  

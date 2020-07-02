@@ -2,6 +2,8 @@
 layout: post
 title: "The Trapeze Artist"
 category: poetry
+footer: true
+author: TeslaCoil
 ---
 
 Solemn opportunity, her body swings and raises awe  

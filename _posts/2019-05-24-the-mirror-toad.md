@@ -2,6 +2,8 @@
 layout: post
 title: "The Mirror Toad"
 category: poetry
+footer: true
+author: TeslaCoil
 ---
 
 Hue canvas of the fuzzy undergrowth slides  
