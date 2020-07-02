@@ -11,10 +11,10 @@
     </thead>
     <tbody>
         {% for post in site.posts %}
-        </tr>
-        <td class="td_title"><a href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a></td>
-        <td class="td_date">{{post.date | date: "%b %d, %y"}}</td>
-        <td class="td_category">{{post.category}}</td>
+        <tr>
+          <td class="td_title"><a href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a></td>
+          <td class="td_date">{{post.date | date: "%b %d, %y"}}</td>
+          <td class="td_category">{{post.category}}</td>
         </tr>
         {% endfor %}
     </tbody>
@@ -23,7 +23,7 @@
 <!-- list of articles: sorted by category-->
 <h1>Post List, sorted by Category</h1>
 <table>
-{% for cate in site.categories %} 
+{% for cate in site.categories %}
 {% capture cate_name %}
 {{ cate | first }}
 {% endcapture %}
@@ -31,7 +31,7 @@
     <thead>
         <tr>
         <th id="cate_name"><i class="fa fa-tags"></i>{{ cate_name }}</th>
-        <th></th>  
+        <th></th>
         </tr>
     </thead>
   <tbody>

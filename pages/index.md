@@ -7,35 +7,11 @@ btn_text: true
 footer: true
 title: ""
 author: ""
-encrypted_text: true
 permalink: /
 ---
 
-# PROJECT NEGYA - HACKER-STYLE PERSONAL HOMEPAGE
+# VRC6 -
 
-##  Features
-* Highly customizable, content-oriented with The Matrix style
-* Eyesight-protection layout
-* Decrypt and encrypt text (access token: 233): 
-  * secret msg 1: 
-  <p class="encrypted" id="/MZAf/PKx9jpw8/Jnp7XQQFki2ibGnArZP46W+keVThXquhWwFROEFnbY8eC57Tw==">Encrypted content!</p>
-  * secret msg 2: 
-  <p class="encrypted" id="G7D+0370pNmixIP1j7teCg1jtm9XCdOWYFH61lcM0LYWlT0hB3rS9raIs=">Encrypted content!</p>
-* LaTeX formula Support with MathJax
+##  Introduction
 
-$$
-NADH+Q+5\;H_{matrix}^{+}\rightarrow NAD^{+}+QH_{2}+4\;H_{intermembrane}^{+}\!
-$$
-
-* Code highlight with Rouge
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-## Download and Documentation
-
-[**pRoJEct NeGYa (Github)**](https://github.com/akiritsu/pRoJEct-NeGYa)
-
+This is going to be a place where I will start archiving many of my thoughts, poetry, writings into one consolidated place. This site was created using Jekyll and Github Pages that provides me free hosting as long as there isn't any heavy binaries stored. This site also features a hidden AES encryption feature so I can share pages to friends and family with a secret key. I went for a dark layout with a green text as it's easier on the eyes than having a bright white background. For now, the site seems barren but that's only because I haven't fully started archiving my writings as of yet but that will change soon enough. Scroll to the bottom to see the list of posts, thank you and may you find any of my work something worthwhile reading.
