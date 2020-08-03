@@ -12,6 +12,7 @@ webrick:
 ## Global Variables
 email: "tesla@vrc6.com"
 github: "jimmyovega/jimmyovega.github.io"
+instagram: "obelisktincture"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets"
 statement: "Designed by DeerRIDER, All Rights Reserved."

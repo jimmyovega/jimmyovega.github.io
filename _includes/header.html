@@ -34,6 +34,16 @@
                         </i>
                     </a>
                 {% endif %}
+                <!-- instagram -->
+                {% if site.instagram != "" %}
+                    <a class="header_btn" href="https://instagram.com/{{ site.instagram }}">
+                        <i class="fa fa-camera">
+                            {% if page.btn_text != false %}
+                                <p class="btn_text">Instagram</p>
+                            {% endif %}
+                        </i>
+                    </a>
+                {% endif %}
                 <!-- maximize -->
                 {% if page.maximize != false %}
                     <a class="header_btn" id="mxmz_btn" onclick="toggle_maximize()">
