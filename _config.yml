@@ -1,6 +1,6 @@
 ## Settings
 title: VRC6.com
-owner: "TeslaCoil"
+owner: "Jimmy Vega"
 url: "https://vrc6.com"
 baseurl: ""
 permalink: /:title/
@@ -10,9 +10,9 @@ webrick:
   headers:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
-email: "tesla@vrc6.com"
+email: "jimmy@vrc6.com"
 github: "jimmyovega/jimmyovega.github.io"
-instagram: "obelisktincture"
+instagram: "azuretincture"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets"
 statement: "Designed by DeerRIDER, All Rights Reserved."
