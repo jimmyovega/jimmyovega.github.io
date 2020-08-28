@@ -10,7 +10,7 @@ author: "TeslaCoil"
 permalink: /
 ---
 
-# VRC6 - A wonderful little small repository of text
+# VRC6 - A small repository of text
 
 ##  Introduction
 
