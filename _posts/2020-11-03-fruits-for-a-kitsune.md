@@ -11,7 +11,7 @@ Walking along the top of gates meant for the bipedal kind
 Ruling our inexcusable jargon of empty containers, leftovers  
 Wonderful belly expanding bounties - the beautiful audacity  
 
-All of these were meaningful trinkets, from a space saver desk,  
+All of these were meaningful trinkets, from a oak wood desk,  
 These treasures of men beholden to me, to the unwanted tripe,  
 Wishes come from a spirit that were many, all taken by her,  
 The playful fox has no beckoning or fancies, who's outside.  
